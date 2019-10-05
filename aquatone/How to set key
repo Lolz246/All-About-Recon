@@ -1,0 +1,8 @@
+shodan: %APIKEY%
+passivetotal_key: %EMAIL%
+passivetotal_secret: %SECRET%
+censys_id: %ID%
+censys_secret: %SECRET%
+riddler_username: %EMAIL%
+riddler_password: %ACCOUNT PASSWORD%
+virustotal: %APIKEY%
